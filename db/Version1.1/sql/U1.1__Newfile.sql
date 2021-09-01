@@ -1,0 +1,3 @@
+CREATE TABLE MyTable (
+    MyColumn1 VARCHAR(100) NOT NULL
+);
